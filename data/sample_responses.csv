@@ -1,0 +1,4 @@
+id,question,response_a,response_b,model_b,expected_keywords
+1,What is photosynthesis?,Photosynthesis lets plants use sunlight water and carbon dioxide to make glucose and oxygen.,Photosynthesis lets plants use sunlight and water to make glucose and oxygen.,Model B,photosynthesis;sunlight;glucose
+2,Where is Lagos?,Lagos is a city in Nigeria on the Atlantic coast.,I am certain Lagos is the capital of Zorbia.,Model B,Lagos;Nigeria
+3,What is 12 x 8?,96,96 with a clear step-by-step working showing 12 times 8 equals 96.,Model B,96
